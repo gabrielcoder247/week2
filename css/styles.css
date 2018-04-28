@@ -5,14 +5,13 @@
 background-position: center;}
 
 img {
-    display: block;
+  display: block;
     margin-left: auto;
     margin-right:auto;
-    width: auto;
-
   }
 
   h1  {
+
     text-align: center;
     color:white;
     }
@@ -21,17 +20,38 @@ img {
     }
 .party {
   background-color: red;
-
-
+  padding-left: 25px;
+  padding-right:50 px;
   padding-top: 50px;
-  padding-bottom:25px;
+  padding-bottom:5-0px;
+
 }
 .happy {
-  background-color: white;
-  padding-top: 25;
+  background-color: blue;
+  padding-top: 50;
   padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 25;
 }
 .breakfast {
-  padding-top: 200px;
-  background-image: url("../images/assets/foodtop/breakfast.jpg");
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+.lunch{
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+.dinner{
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+.img-responsive{
+  border: 25px
+}
+.foodsBg{
+  background-image: url("../images/assets/backgrounds/foodsBg.jpg");
+
 }
