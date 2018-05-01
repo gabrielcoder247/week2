@@ -19,7 +19,7 @@ h1 {
   text-align: center;
   color: white;
   font-family:serif;
-  font-size: 50px;
+  font-size: 35px;
 }
 
 
@@ -29,22 +29,37 @@ h1 {
   background-color: red;
   padding-left: 0px;
   padding-right: 00 px;
-  padding-top: 48px;
-  padding-bottom: 44px;
+  padding-top: 44px;
+  padding-bottom: 10px;
   margin: 0px;
   width: 106%;
   margin-left: 0px;
 }
 
 .happy {
-  background-color: blue;
-  padding-top: 48;
-  padding-bottom: 48px;
+  background-color: #EEEEEE;
+  padding-top: 55px;
+  padding-bottom: 2px;
   padding-left: 0px;
   padding-right: 0;
   margin: 0px;
   width: 106%;
   margin-left: 0px;
+}
+.happy p{
+  color:black;
+  font-family: serif;
+  font-size: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.party p{
+  color:white;
+  font-family: serif;
+  font-size: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .breakfast {
@@ -153,6 +168,7 @@ border: 0px;
   line-height: 150px;
   font-family: 'arial';
   text-align: center;
+  font-size: 25px;
 }
 /* line 34, ../sass/style.scss */
 #outer-box:hover #inner-box {
@@ -218,6 +234,7 @@ border: 0px;
   line-height: 150px;
   font-family: 'arial';
   text-align: center;
+  font-size: 25px;
 }
 /* line 34, ../sass/style.scss */
 #outer-box2:hover #inner-box2 {
@@ -256,6 +273,7 @@ border: 0px;
   line-height: 150px;
   font-family: 'arial';
   text-align: center;
+  font-size: 25px;
 }
 /* line 34, ../sass/style.scss */
 #outer-box3:hover #inner-box3 {
