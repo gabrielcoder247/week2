@@ -289,8 +289,9 @@ border: 0px;
   position: fixed;
 
 }
-.foodsbg{
-  float:right;
+.foodsBg{
+  background-image: url("../images/assets/backgrounds/foodsBg.jpg");
+  
 }
 .ha{margin-left: 14px
 
